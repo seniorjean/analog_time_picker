@@ -1,0 +1,21 @@
+name: analog_time_picker
+description: An updated version of the original analog_time_picker.
+version: 0.0.2
+author: TRO JEAN CEDRIC (seniorjean)<tro.oppong@gmail.com>
+homepage: https://github.com/seniorjean/analog_time_picker
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.20.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
