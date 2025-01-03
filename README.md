@@ -4,7 +4,7 @@
 
 A Flutter package for iOS and Android for picking last seven dates and time with analog view.
 ## Demo
-<img src="http://sheikhsoft.com/screensort/analog_time_picker.gif" width="340" height="640" title="Screen Shoot">
+<img src="assets/demo.png" width="340" height="640" title="Screen Shoot">
 
 
 ## Installation
