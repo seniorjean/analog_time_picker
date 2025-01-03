@@ -1,4 +1,6 @@
-# analog_time_picker package for Flutter
+# An updated versio of analog_time_picker package for Flutter
+## Added support for null-safety and improved datatype handling
+## Credit to : [Sheikhsoft](https://github.com/Sheikhsoft/analog_time_picker)
 
 [![pub package](https://img.shields.io/pub/v/analog_time_picker.svg)](https://pub.dartlang.org/packages/lanalog_time_picker)
 
