@@ -11,6 +11,12 @@ A Flutter package for iOS and Android for picking last seven dates and time with
 
 First, add `analog_time_picker` as a [dependency in your pubspec.yaml file]
 
+```yaml
+  analog_time_picker:
+    git:
+      url: https://github.com/seniorjean/analog_time_picker
+```
+
 ### iOS
 
 No configuration required - the plugin should work out of the box.
@@ -31,10 +37,10 @@ class AnalogDayPick extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return AnalogTimePicker(
-                           onChanged: (Map<String , DateTime value>){
-                            _dateTime = value;
-                           },
-                         );
+      onChanged: (Map<String , DateTime value>){
+       _dateTime = value;
+      },
+    );
   }
 }
 ```
